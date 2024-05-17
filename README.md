@@ -22,3 +22,5 @@ Now, in a different terminal window, navigate to loan-amortization-api and run t
 ```
 poetry run pytest
 ```
+
+Thank you!
